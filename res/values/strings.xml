@@ -81,6 +81,6 @@
 
     <!-- Pulse and media arrows blacklist -->
     <string name="navMediaArrowsExcludeList" translatable="false">
-        chrome,youtube,netflix,firefox,dolphin,opera,browser
+        chrome,youtube,netflix,firefox,dolphin,opera,browser,xmp
     </string>
 </resources>
